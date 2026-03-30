@@ -1,0 +1,26 @@
+{
+  "token": "MTQ4Nzc2ODQyMTE0Mjg5MjY5NQ.G-Zxed.2BoXWZ5A2MgIveHdBVRBo_FRp02dOf1R6m6vKg",
+  "mongo": "mongodb+srv://AeroX:AeroX@aerox.rv3nxmb.mongodb.net/?retryWrites=true&w=majority&appName=AeroX",
+  "clientId": "1487768421142892695",
+  "guildId": "1486495485660233872",
+  "application_id": "1487768421142892695",
+  "webhook": "",
+  "joinwebhook": "",
+  "webid": "",
+  "webtoken": "",
+  "voice": "",
+  "groqApiKey": "",
+  "nodes": [
+    {
+      "host": "lavalink.jirayu.net",
+      "port": 13592,
+      "password": "youshallnotpass",
+      "identifier": "LavaLink",
+      "retryAmount": 1000,
+      "retrydelay": 10000,
+      "resumeStatus": true,
+      "resumeTimeout": 1000,
+      "secure": false
+    }
+  ]
+}
